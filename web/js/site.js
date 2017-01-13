@@ -1,3 +1,5 @@
-$( document ).ready(function() {
-    if (location.pathname == '/') alert('Hello!');
+$(document).ready(function() {
+    if (location.pathname == '/') {
+	alert('Hello!');
+    }
 });
